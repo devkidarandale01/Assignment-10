@@ -72,3 +72,23 @@ body {
     padding: 15px 20px;
     border-top: 1px solid #eee;
 }
+.price {
+    font-weight: bold;
+    font-size: 18px;
+    color: #007BFF;
+}
+
+button {
+    padding: 8px 12px;
+    background: #007BFF;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
